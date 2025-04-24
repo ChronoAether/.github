@@ -1,4 +1,4 @@
-# ChronoAether
+# [ChronoAether](chronoaether.github.io)
 Welcome to **ChronoAether**, a dynamic open-source crew building cool, student-focused tools with clean frontends and AI-powered smarts. Our goal? To make learning and productivity a breeze for students with tools that are simple, smart, and fun.
 
 ---
